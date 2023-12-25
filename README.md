@@ -59,3 +59,9 @@ Newsletter Subscription: Allow users to subscribe to newsletters for updates on 
 
 
 #I added a newline - 21_apu
+
+
+
+
+##Frontend
+Updated Manage Profile- 33_Tarannaum
