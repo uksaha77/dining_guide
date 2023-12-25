@@ -64,4 +64,4 @@ Newsletter Subscription: Allow users to subscribe to newsletters for updates on 
 
 
 ##Frontend
-Updated Manage Profile- 33_Tarannaum
+Updated Manage Profile- Tarannaum
