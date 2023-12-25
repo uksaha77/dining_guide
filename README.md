@@ -1,6 +1,8 @@
 # Dining Guide
 
 Project Concept: 
+
+**Updated by Tanvir**
 A directory of local restaurants and food recommendations.
 
 The LocaleDiningGuide is a comprehensive online platform that aims to connect food enthusiasts with local dining experiences, highlight unique culinary offerings, and facilitate community engagement around food. It will serve as a digital hub for discovering, sharing, and exploring the diverse culinary landscape of a specific region or locality.
@@ -14,7 +16,7 @@ The LocaleDiningGuide project can be developed using a combination of technologi
 * Map integration libraries (e.g., Leaflet) for location-based features
 * Responsive design for mobile and desktop devices
 
-Back-End:
+## Back-End:
 Node.js or Python (Server-side scripting)
 Express.js (Web application frameworks)
 MongoDB or PostgreSQL (Database management)
