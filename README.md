@@ -8,11 +8,11 @@ The LocaleDiningGuide is a comprehensive online platform that aims to connect fo
 Development Technology:
 The LocaleDiningGuide project can be developed using a combination of technologies, including:
 
-Front-End:
-HTML, CSS, JavaScript
-React (Front-end framework)
-Map integration libraries (e.g., Leaflet) for location-based features
-Responsive design for mobile and desktop devices
+## Front-End:
+* HTML, CSS, JavaScript
+* React (Front-end framework)
+* Map integration libraries (e.g., Leaflet) for location-based features
+* Responsive design for mobile and desktop devices
 
 Back-End:
 Node.js or Python (Server-side scripting)
